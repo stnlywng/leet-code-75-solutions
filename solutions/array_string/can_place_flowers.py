@@ -1,5 +1,7 @@
 from typing import List
 
+# Question:
+
 def can_place_flowers_solution(flowerbed: List[int], n: int) -> bool:
     last_flower = 0
     counter = 0
